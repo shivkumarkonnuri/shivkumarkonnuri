@@ -1,16 +1,87 @@
-## Hi there 👋
+# Hi, I'm Shivkumar 👋
 
-<!--
-**shivkumarkonnuri/shivkumarkonnuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a QA Engineer with 9+ years of experience in software testing.
 
-Here are some ideas to get you started:
+Currently, I am transitioning into DevOps and building my skills step by step through daily hands-on practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on understanding fundamentals clearly and applying them practically.
+
+
+---
+
+## 👨‍💻 My Background
+
+I have worked extensively in:
+
+- Manual Testing
+- Selenium WebDriver
+- TestNG
+- SQL & Database Testing
+- JIRA defect tracking
+- Production support & release coordination
+
+Root cause analysis, stability, and quality delivery have always been part of my role.
+
+
+---
+
+## 🚀 What I Am Learning & Practicing Now
+
+As part of my DevOps transition, I have completed and practiced:
+
+- Linux fundamentals (file system, permissions, processes, package management)
+- Basics of Networking (TCP/IP, DNS, ports, HTTP/HTTPS)
+- Shell scripting (automation scripts, log parsing, task automation)
+- Git & advanced Git concepts
+- GitHub CLI & repository management
+- Pull Request workflows
+- CI/CD fundamentals
+
+I am consistently practicing automation and strengthening my understanding of how systems work behind the scenes.
+
+
+---
+
+## 📌 Important Repositories
+
+Some repositories where I document and practice:
+
+- 🔹 DevOps Git Practice  
+  https://github.com/Shiv0311/devops-git-practice
+
+- 🔹 90DaysOfDevOps  
+  https://github.com/Shiv0311/90DaysOfDevOps
+
+- 🔹 DevOps Hands-On  
+  https://github.com/Shiv0311/DevOps
+
+- 🔹 Python for DevOps  
+  https://github.com/Shiv0311/python-for-devops
+
+I regularly update these as I progress.
+
+
+---
+
+## 🎯 My Goal
+
+To become a DevOps Engineer with strong fundamentals in:
+
+- Linux
+- Networking
+- Shell scripting
+- Automation
+- CI/CD
+- Cloud
+
+I am building this transition with discipline, consistency, and hands-on practice.
+
+
+---
+
+## 📫 How to Reach Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/shivkumar-konnuri
+- 📧 Email: shivkumarkonnuri@gmail.com
+
+Open to learning, collaboration, and meaningful technical discussions.
