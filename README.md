@@ -46,17 +46,14 @@ I am consistently practicing automation and strengthening my understanding of ho
 
 Some repositories where I document and practice:
 
-- 🔹 DevOps Git Practice  
-  https://github.com/Shiv0311/devops-git-practice
+- 🔹 DevOps Notes 
+  https://github.com/shivkumarkonnuri/devops-notes
 
 - 🔹 90DaysOfDevOps  
-  https://github.com/Shiv0311/90DaysOfDevOps
+  https://github.com/shivkumarkonnuri/90DaysOfDevOps
 
-- 🔹 DevOps Hands-On  
-  https://github.com/Shiv0311/DevOps
-
-- 🔹 Python for DevOps  
-  https://github.com/Shiv0311/python-for-devops
+- 🔹 Shell Scripts  
+  https://github.com/shivkumarkonnuri/shell-scripts
 
 I regularly update these as I progress.
 
